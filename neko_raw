@@ -2,7 +2,7 @@
 -- Tail that CAN be used https://web.roblox.com/catalog/4645440842/Plain-White-Cat-Tail
 -- For updates on script join this server
 -- https://discord.gg/ad7WVB6Bxf
--- To load faster, the loadstring is loadstring(game:HttpGet('after publish link here bozo'))()
+-- To load faster, the loadstring is loadstring(game:HttpGet('https://raw.githubusercontent.com/5GIGABYTE/neko/main/neko_raw'))()
 
 
 local NotificationBindable = Instance.new("BindableFunction")
